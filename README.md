@@ -8,7 +8,7 @@ Transforme seus designs do Figma em scripts Lua para MTA de forma rápida e efic
 
 **🔗 Recursos Úteis:**
 - **Tutorial:** Aprenda a utilizar a ferramenta assistindo nosso vídeo [aqui](https://www.youtube.com/watch?v=U5kB5g0X3TM).
-- **Versões e Lançamentos:** Baixe as versões mais recentes [aqui](https://github.com/Trmxv9/Figma-To-MTA/releases).
+- **Versões e Lançamentos:** Baixe as versões mais recentes [aqui](https://github.com/SrTermaxTeam/FigmaConvert/releases).
 - **Comunidade:** Participe do nosso Discord para dúvidas e discussões [aqui](https://discord.gg/rNAXhxN3hN).
 - **Figma API Key:** Para integrar o Figma, obtenha sua chave de API [aqui](https://www.figma.com/developers/api#access-tokens).
 
@@ -24,7 +24,7 @@ Quickly and efficiently turn your Figma designs into Lua scripts for MTA! With *
 
 **🔗 Useful Resources:**
 - **Tutorial:** Learn how to use the tool by watching our video [here](https://www.youtube.com/watch?v=U5kB5g0X3TM).
-- **Releases and Downloads:** Get the latest versions [here](https://github.com/Trmxv9/Figma-To-MTA/releases).
+- **Releases and Downloads:** Get the latest versions [here](https://github.com/SrTermaxTeam/FigmaConvert/releases).
 - **Community:** Join our Discord for support and discussion [here](https://discord.gg/rNAXhxN3hN).
 - **Figma API Key:** To integrate with Figma, get your API key [here](https://www.figma.com/developers/api#access-tokens).
 
